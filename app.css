@@ -1,0 +1,15 @@
+body {
+    background-image: url(logo.png);
+    background-size: cover;
+}
+
+.boxes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+th,
+td {
+    border: 1px solid white;
+    color: white;
+}
